@@ -2,8 +2,8 @@ import keyboard
 import pymem
 
 
-dwEntityList = 0x4DD245C
-dwGlowObjectManager = 0x531B048
+dwEntityList = 0x4DD346C
+dwGlowObjectManager = 0x531C078
 m_iGlowIndex = 0x10488
 m_iTeamNum = 0xF4
 
